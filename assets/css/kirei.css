@@ -1,0 +1,36 @@
+body{
+    background-color: #a0a0a0;
+}
+img{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.containerORL{
+    margin-left: 4%;
+    margin-right: 4%;
+
+}
+/*
+Eu editei o padding, ele que estava fazendo a pagina ficar cagadinha.
+e coloquei os atributos da nav no Style="" 
+*/
+
+nav{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+}
+
+.card{
+    padding: 0.5%;
+    background-color: #000000;
+}
+
+.row{
+  margin-left: 1%;
+  margin-right: auto;
+}
+
+h5{
+  color: #FFffFF;
+}
