@@ -36,5 +36,7 @@ gsp\__/'---'\__/
         mas podemos te mostrar esse belo background rosa. Espero que goste.<br>
         <a href="./index.php" class=""><h1>Clique aqui para voltar para o index.</h1></a>
     </h1>
+    <?php
+    ?>
 </body>
 </html>
