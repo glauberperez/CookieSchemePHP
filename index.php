@@ -159,7 +159,7 @@ gsp\__/'---'\__/
                             </div>
                             <div class="col-sm-2">
                                 <div class="card" style="width: 100%;">
-                                    <img src="./assets/img/pants4.jpg" class="resolution card-img-top" alt="...">
+                                    <img src="./assets/img/Pants4.jpg" class="resolution card-img-top" alt="...">
                                     <h5 class="card-title">Pants Hype 0.4</h5>
                                     <a href="./comprar.php" class="btn btn-secondary">Comprar</a>
                                 </div>
